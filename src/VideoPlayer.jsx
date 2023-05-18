@@ -11,6 +11,7 @@ import ReactPlayer from 'react-player'
         height='100%'
         playsinline={true}
         muted={true}
+        loop={true}
       />
     </div>
     )
