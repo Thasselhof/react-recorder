@@ -9,7 +9,6 @@ import VideoPlayer2 from './VideoPlayer2.jsx'
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <AudioRecorder />
-    <VideoPlayer />
     <VideoPlayer2 />
   </React.StrictMode>,
 )
